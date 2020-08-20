@@ -1,0 +1,26 @@
+{
+    "success": true,
+    "categories": [
+        {
+            "name": "Elbise",
+            "id":0
+            
+        },
+        {
+            "name": "İkili Takım",
+            "id": 1
+        },
+        {
+            "name": "Triko",
+            "id": 2
+        },
+        {
+            "name": "Dış Giyim",
+            "id": 3
+        },
+        {
+            "name": "Tunik",
+            "id": 4
+        }
+    ]
+}

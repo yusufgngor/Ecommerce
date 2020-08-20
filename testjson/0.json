@@ -1,0 +1,72 @@
+{
+    "success": true,
+    "products": [
+        {
+            "id": "y9078",
+            "name": "Airobin Kumaş Bağcıklı Kap Siyah",
+            "category": "Elbise",
+            "image": "image/cache/catalog/03.05/WhatsApp%20Image%202020-04-28%20at%2022.49.09%20(2)-800x1080.jpeg",
+            "price": 100.00,
+            "sizes": [
+                {
+                    "size": "34-beyaz",
+                    "stock": 50
+                    
+                },
+                {
+                    "size": "35-siyah",
+                    "stock": 20
+                    
+                },
+                {
+                    "size": "36-yeşil",
+                    "stock": 12
+                    
+                },
+                {
+                    "size": "32-kahverengi",
+                    "stock": 11
+                    
+                }
+                
+               
+            ],
+            "description": "7 gün içinde değişim. Detaylı bilgi için tıklayın Mankenin ölçüleri boy 163 kilo 52 Mankenin üzerindeki ürün M/38 bedendir. airobin kumaş 120 cm 36-38-40-42-44 beden aralığında"
+            
+        },
+        {
+            "id": "y9079",
+            "name": "Airobin Kumaş Bağcıklı Kap Haki",
+            "category": "İkili Takım",
+            "image": "image/cache/catalog/13.05./aaaaa-800x1080.png",
+            "price": 120.00,
+            "sizes": [
+                {
+                    "size": "34-beyaz",
+                    "stock": 99
+                    
+                },
+                {
+                    "size": "35-siyah",
+                    "stock": 99
+                    
+                },
+                {
+                    "size": "36-yeşil",
+                    "stock": 99
+                    
+                }
+            ],
+            "description": "7 gün içinde değişim. Detaylı bilgi için tıklayın Mankenin ölçüleri boy 163 kilo 52 Mankenin üzerindeki ürün M/38 bedendir. airobin kumaş 120 cm 36-38-40-42-44 beden aralığında"
+        },
+        {
+            "id": "i9056",
+            "name": "Airobin Kumaş Bağcıklı Takım Tarçın",
+            "category": "Triko",
+            "image": "image/cache/catalog/03.05/WhatsApp%20Image%202020-04-28%20at%2022.51.49%20(1)-800x1080.jpeg",
+            "price": 135.00,
+            "sizes": [],
+            "description": "7 gün içinde değişim. Detaylı bilgi için tıklayın Mankenin ölçüleri boy 163 kilo 52 Mankenin üzerindeki ürün M/38 bedendir. airobin kumaş 120 cm 36-38-40-42-44 beden aralığında"
+        }
+    ]
+}

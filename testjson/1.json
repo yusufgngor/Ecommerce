@@ -1,0 +1,72 @@
+{
+    "success": true,
+    "products": [
+        {
+            "id": "y9120",
+            "name": "Airobin Kumaş Fırfırlı Ikili Takım Gri",
+            "category": "İkili Takım",
+            "image": "image/cache/catalog/09.06/WhatsApp%20Image%202020-06-08%20at%2021.00.31%20(1)-800x1080.jpeg",
+            "price": 169.90,
+            "sizes": [
+                {
+                    "size": "36",
+                    "stock": 50
+                    
+                },
+                {
+                    "size": "38",
+                    "stock": 20
+                    
+                },
+                {
+                    "size": "40",
+                    "stock": 12
+                    
+                },
+                {
+                    "size": "44",
+                    "stock": 11
+                    
+                }
+                
+               
+            ],
+            "description": "7 gün içinde değişim. Detaylı bilgi için tıklayın Mankenin ölçüleri boy 163 kilo 52 Mankenin üzerindeki ürün M/38 bedendir. airobin kumaş 120 cm 36-38-40-42-44 beden aralığında"
+            
+        },
+        {
+            "id": "y9119",
+            "name": "Airobin Kumaş Fırfırlı Ikili Takım Krem",
+            "category": "İkili Takım",
+            "image": "image/cache/catalog/09.06/WhatsApp%20Image%202020-06-08%20at%2021.00.30%20(1)-800x1080.jpeg",
+            "price": 120.00,
+            "sizes": [
+                {
+                    "size": "42",
+                    "stock": 99
+                    
+                },
+                {
+                    "size": "44",
+                    "stock": 99
+                    
+                }
+              
+            ],
+            "description": "7 gün içinde değişim. Detaylı bilgi için tıklayın Mankenin ölçüleri boy 163 kilo 52 Mankenin üzerindeki ürün M/38 bedendir. airobin kumaş 120 cm 36-38-40-42-44 beden aralığında"
+        },
+        {
+            "id": "y9118",
+            "name": "Airobin Kumaş Fırfırlı Ikili Takım Mavi",
+            "category": "İkili Takım",
+            "image": "image/cache/catalog/09.06/WhatsApp%20Image%202020-06-08%20at%2021.00.29%20(3)-800x1080.jpeg",
+            "price": 169.00,
+            "sizes": [  {
+                "size": "42",
+                "stock": 99
+                
+            }],
+            "description": "7 gün içinde değişim. Detaylı bilgi için tıklayın Mankenin ölçüleri boy 163 kilo 52 Mankenin üzerindeki ürün M/38 bedendir. airobin kumaş 120 cm 36-38-40-42-44 beden aralığında"
+        }
+    ]
+}
